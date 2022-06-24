@@ -72,6 +72,10 @@ v) #To cut and paste portion of image
 
 <br>
 <br>
+<br>
+<br>
+<br>
+
 ### v)Cut and paste portion of image
 <img src="https://user-images.githubusercontent.com/75235747/161131925-91d1c3c7-2ea6-447e-a938-2d6f3be23be8.png" width="500">
 <img src="https://user-images.githubusercontent.com/75235747/161131950-26281bde-5f06-4bdf-9df2-2f2355d5c18d.png" width="500">
