@@ -56,25 +56,24 @@ v) #To cut and paste portion of image
 ## Output:
 
 ### i) Read and display the image
-<img src="https://user-images.githubusercontent.com/75235747/161131460-44aaf9dc-2874-4fee-9687-eb32c8688a2b.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/161131460-44aaf9dc-2874-4fee-9687-eb32c8688a2b.png" width="500">
 
 
 ### ii)Write the image
-<img src="https://user-images.githubusercontent.com/75235747/161131636-242026bc-96d5-4a41-953e-7816665b7319.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/161131636-242026bc-96d5-4a41-953e-7816665b7319.png" width="500">
 
 
 ### iii)Shape of the Image
-<img src="https://user-images.githubusercontent.com/75235747/161131726-84c81fcd-6873-495e-9ed4-c050cbec658f.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/161131726-84c81fcd-6873-495e-9ed4-c050cbec658f.png" width="500">
 
 
 ### iv)Access rows and columns
-<img src="https://user-images.githubusercontent.com/75235747/161131826-8c243a9e-e779-4c1b-9320-ccafc7b4cf0c.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235747/161131826-8c243a9e-e779-4c1b-9320-ccafc7b4cf0c.png" width="500">
 
 
 ### v)Cut and paste portion of image
-<img src="https://user-images.githubusercontent.com/75235747/161131925-91d1c3c7-2ea6-447e-a938-2d6f3be23be8.png" width="600">
-<img src="https://user-images.githubusercontent.com/75235747/161131950-26281bde-5f06-4bdf-9df2-2f2355d5c18d.png" width="600">
-
+<img src="https://user-images.githubusercontent.com/75235747/161131925-91d1c3c7-2ea6-447e-a938-2d6f3be23be8.png" width="500">
+<img src="https://user-images.githubusercontent.com/75235747/161131950-26281bde-5f06-4bdf-9df2-2f2355d5c18d.png" width="500">
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
