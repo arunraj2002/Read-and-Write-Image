@@ -70,11 +70,6 @@ v) #To cut and paste portion of image
 ### iv)Access rows and columns
 <img src="https://user-images.githubusercontent.com/75235747/161131826-8c243a9e-e779-4c1b-9320-ccafc7b4cf0c.png" width="500">
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### v)Cut and paste portion of image
 <img src="https://user-images.githubusercontent.com/75235747/161131925-91d1c3c7-2ea6-447e-a938-2d6f3be23be8.png" width="500">
